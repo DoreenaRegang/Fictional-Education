@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    background-image: linear-gradient( #000000b0, #000000b0), url(img/books.jpg);
+}
+
+a{ 
+    color: white;
+    text-decoration: none;
+}
+
+.divlist{
+    width: 100%;
+    padding: 5px 10vw;
+    position: fixed;
+}
+.divlist ul{
+    display: flex;
+    list-style: none;
+}
+.divlist ul li:first-child{
+    flex: 1;
+}
+.divlist ul h4{
+    font-family: 'Times New Roman', Times, serif;
+}
+.divlist ul a{
+    margin-left: 20px;
+}
+.divlist ul a:hover{
+    color: red;
+}
+
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+table tr td button a:hover{
+    color: yellow;
+}
+td{
+   
+    width: 100%;
+    height: 5vh;
+    padding-top: 10vh;
+
+}
+button{
+    padding: 10px;
+    font-size: 24px;
+    background: none;
+    border: 1px solid #f80;
+    
+}
+
+iframe{
+    display: block;
+    margin: auto;
+    border: 5px solid rgb(255, 250, 245);
+}
+
+

@@ -1,0 +1,99 @@
+h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    font-size: 28px;
+    color: rgb(117, 3, 170);
+}
+.ict{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 200px;
+    border: 10px solid ;
+}
+
+
+h3{
+    color: royalblue;
+
+}
+
+iframe{
+    display: block;
+    margin: auto;
+    border: 5px solid rgb(252, 5, 5);
+}
+.laptop{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 200px;
+    border: 10px solid ;
+}
+li{
+    color: red;
+}
+h2{
+    text-align: center;
+    color: hotpink;
+    font-style:oblique;
+}
+.wordICT{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 200px;
+    border: 10px solid ;
+}
+
+.mandarin{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 200px;
+    border: 10px solid ;
+}
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.math1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 200px;
+    border: 10px solid ;
+}
+.math2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 200px;
+    border: 10px solid ;
+}
+
+.motivate1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 200px;
+    border: 10px solid ;
+}
+
+em{
+    color: tomato;
+}
+
+strong{
+    color: rgb(243, 112, 4);
+}
